@@ -44,7 +44,7 @@ używających biblioteki ppx_here.
 
 %package devel
 Summary:	Expands [%here] into its location - development part
-Summary(pl.UTF-8):	Rozwijanie [%here] na jego położenie - cześć programistyczna
+Summary(pl.UTF-8):	Rozwijanie [%here] na jego położenie - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
